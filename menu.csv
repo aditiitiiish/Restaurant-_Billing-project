@@ -1,0 +1,6 @@
+item_name,category,price,gst_percent
+Burger,Food,100,5
+Pizza,Food,250,5
+Pasta,Food,180,5
+Fries,Snacks,80,5
+Coke,Beverage,40,0

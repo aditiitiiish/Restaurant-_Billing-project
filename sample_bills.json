@@ -1,0 +1,81 @@
+[
+  {
+    "mode": "Dine-In",
+    "table_no": "Table 1",
+    "payment_method": "UPI",
+    "items": [
+      {
+        "Burger": 2
+      },
+      {
+        "Fries": 1
+      },
+      {
+        "Coke": 2
+      }
+    ],
+    "discount": 0
+  },
+  {
+    "mode": "Takeaway",
+    "table_no": "-",
+    "payment_method": "Cash",
+    "items": [
+      {
+        "Pizza": 1
+      },
+      {
+        "Coke": 1
+      }
+    ],
+    "discount": 0
+  },
+  {
+    "mode": "Dine-In",
+    "table_no": "Table 3",
+    "payment_method": "Card",
+    "items": [
+      {
+        "Pasta": 2
+      },
+      {
+        "Fries": 2
+      }
+    ],
+    "discount": 10
+  },
+  {
+    "mode": "Dine-In",
+    "table_no": "Table 5",
+    "payment_method": "UPI",
+    "items": [
+      {
+        "Coke": 3
+      }
+    ],
+    "discount": 0
+  },
+  {
+    "mode": "Takeaway",
+    "table_no": "-",
+    "payment_method": "Cash",
+    "items": [
+      {
+        "Burger": 1
+      },
+      {
+        "Pizza": 1
+      },
+      {
+        "Pasta": 1
+      },
+      {
+        "Fries": 1
+      },
+      {
+        "Coke": 1
+      }
+    ],
+    "discount": 5
+  }
+]
